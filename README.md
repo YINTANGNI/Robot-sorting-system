@@ -6,7 +6,7 @@ The package usb_cam is the package used to publish raw images of the camera and 
 The package corvin_manipulator is used to display interface in remote control terminal.<br>
 The package p3dx_navigation contains the configuration files for mobile robot.<br>
 
-To run the program, the steps are following:<br>
+To run the robot system, the steps are following:<br>
 Mobile robot:<br>
     $ roscore<br>
     $ roslaunch p3dx_navigation pioneer.launch<br>
